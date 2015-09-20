@@ -1,1 +1,21 @@
+# 主要知识
 
+- 阿里云的使用（ECS）
+
+- ECS vs 虚拟空间
+
+- 实战演示虚拟空间的脆弱
+
+# 资源列表
+
+- [阿里云官网](http://www.aliyun.com/)
+
+- SSH 软件: XShell Putty
+
+- FTP 软件: XFtp 8uFTP FlashFxp
+
+- 服务器软件: XAMPP WAMP (单独安装Apache PHP Tomcat MySQL)
+
+- 渗透测试： BurpSuite 中国菜刀
+
+- SQL注入：sqlmap
