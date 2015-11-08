@@ -1,5 +1,7 @@
 #PHP基础入门
 
+参考资料: [w3school](http://www.w3school.com.cn/php/index.asp)
+
 ##主要内容
 1. PHP简介
 2. 开发环境配置
