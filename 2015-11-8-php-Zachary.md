@@ -99,7 +99,7 @@ echo $arr[1];
 关联数组：
 ```
 $age = array('Peter'=>25, 'Tom'=>40, 'John'=>20);
-$age['欢爷']=>18;
+$age['欢爷'] = 18;
 echo $age['Peter'];
 echo $age['欢爷'];
 ```
