@@ -27,27 +27,23 @@ PHP、MySQL、Tomcat等
 ##基本语法
 1. 脚本的插入  
 以`<?php` 开头， 以`?>`结尾  
-```
-<?php
-//此处为PHP代码
-echo "Hello PHP!";
-?>
-```
+	<?php
+	//此处为PHP代码
+	echo "Hello PHP!";
+	?>
 可以嵌入在HTML代码中：  
-```
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My First PHP page!</title>
-<head>
-<body>
-<?php
-//此处为PHP代码
-echo "<h1>Hello PHP!</h1>";
-?>
-</body>
-</html>
-```
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>My First PHP page!</title>
+	<head>
+	<body>
+	<?php
+	//此处为PHP代码
+	echo "<h1>Hello PHP!</h1>";
+	?>
+	</body>
+	</html>
 
 2. 注释  
 	1. `//这是单行注释`
